@@ -7,7 +7,7 @@ This repository will contain information relevant to the development of the Bitc
 
 2.) zkSNARK (Non-interactive zero-knowledge proof) [Privacy]
 
-3.) Link Bitcoin Cash Private to Azurite Network
+3.) Link Bitcoin Cash Private to Azurite Network (Decentralized Autonomous Organisation) [Smart Contracts]
 
 
 
